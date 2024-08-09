@@ -1,16 +1,14 @@
-from Exercises.functions import list_generator, string_generator
+from Exercises.functions import list_generator
 
 string_list = list_generator(str_gen_settings=[10])
 
 for s in string_list:
-    # s = string_generator(5, ["abc"])
     s_length = len(s)
     s_substring = ""
     uniques_count = 0
     counter = 0
 
     for char in s:
-        # print(char)
         if char not in s_substring:
             s_substring += char
             counter += 1

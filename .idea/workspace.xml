@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04060f0e-1a9f-4636-b71d-60fea741b073" name="Changes" comment="" />
+    <list default="true" id="04060f0e-1a9f-4636-b71d-60fea741b073" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercises/longest_consecutive_path/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/longest_consecutive_path/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/no_repetitions/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/no_repetitions/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +42,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "X:/WebAppDev/PyCharm/daily_byte_python/Exercises",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\WebAppDev\PyCharm\daily_byte_python\Exercises" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
