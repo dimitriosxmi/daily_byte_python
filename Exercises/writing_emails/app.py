@@ -5,6 +5,7 @@ emails = [
     "test.e.mail+john.smith@dailybyte.com",
     "testemail+david@daily.byte.com"
 ]
+
 my_emails = []
 
 i = 0
@@ -29,7 +30,6 @@ def filter_unique_emails_count(emails_list):
         domain_name = email[local_name_end_index:]
 
         cleaned_email = (local_name + domain_name)
-        # print(local_name + domain_name)
         if cleaned_email not in cleaned_emails_list:
             cleaned_emails_list.append(cleaned_email)
 
@@ -38,4 +38,5 @@ def filter_unique_emails_count(emails_list):
     return count
 
 
-print("Unique Values: " + str(filter_unique_emails_count(my_emails)))
+print("unique_values: " + str(filter_unique_emails_count(emails)) + " (emails)")
+print("unique_values: " + str(filter_unique_emails_count(my_emails)) + " (my_emails)")

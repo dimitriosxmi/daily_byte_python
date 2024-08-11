@@ -200,10 +200,3 @@ def random_fake_email_generator(min_char_count=4, max_char_count=12, min_domain_
     email = local_name + "@" + domain_name + "." + top_level_domain
 
     return email
-
-
-# i = 0
-# while i < 5:
-#     # print(replace_random_chars_in_string("Hello World"))
-#     print(random_fake_email_generator(1, 1))
-#     i += 1
