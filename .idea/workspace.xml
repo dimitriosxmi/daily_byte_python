@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04060f0e-1a9f-4636-b71d-60fea741b073" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises/longest_consecutive_path/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/longest_consecutive_path/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/writing_emails/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/writing_emails/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/no_repetitions/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/no_repetitions/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.app.executor": "Run",
-    "Python.functions.executor": "Run",
-    "Python.helper_functions.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "X:/WebAppDev/PyCharm/daily_byte_python/Exercises",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.helper_functions.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;X:/WebAppDev/PyCharm/daily_byte_python/Exercises&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="X:\WebAppDev\PyCharm\daily_byte_python\Exercises" />
