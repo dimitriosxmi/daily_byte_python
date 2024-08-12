@@ -147,7 +147,8 @@ def replace_random_chars_in_string(string_value="", start_index=0, end_index=sys
         print("string_value length can't be smaller than 1")
 
 
-def random_fake_email_generator(min_char_count=4, max_char_count=12, min_domain_char_count=1, max_domain_char_count=5, top_level_domains=None):
+def random_fake_email_generator(min_char_count=4, max_char_count=12, min_domain_char_count=1, max_domain_char_count=5,
+                                top_level_domains=None):
     """
     Generates a fake email from random characters
     :type min_char_count: int
